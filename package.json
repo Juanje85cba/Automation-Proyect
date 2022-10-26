@@ -1,0 +1,27 @@
+{
+  "name": "automation-proyect",
+  "version": "1.0.0",
+  "description": "curso_cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Juanje85cba/Proyecto-Cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "js",
+    "testing"
+  ],
+  "author": "JC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanje85cba/Proyecto-Cypress/issues"
+  },
+  "homepage": "https://github.com/Juanje85cba/Proyecto-Cypress#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
