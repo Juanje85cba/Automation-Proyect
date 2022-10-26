@@ -1,0 +1,11 @@
+node_modules 
+*.log
+*.aes
+cypress/screenshots
+cypress/videos
+cypress/logs
+.vscode
+downloads
+cypress/integration/1-getting-started
+cypress/integration/2-advanced-examples
+
